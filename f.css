@@ -1,0 +1,38 @@
+div#container { font:1.2em / 140% 'MS Sans Serif'; }
+
+div#wrapper {
+background-color:#4747d1;
+border: 0.25px white;
+width: auto;
+}
+
+div#kopfbereich {
+background-color:#4747d1;
+white;color:black;
+border:1px white;
+width: auto;
+}
+
+div#navibereich li {
+background-color:#4747d1;
+width: 150px;
+height: 500px;
+color: white;
+display: inline;
+list-style-type: none;
+}
+
+div#textbereich {
+background-color: white;
+color:black;
+border: 1px solid white;
+height: 1000px;
+width:auto;
+}
+
+div#fussbereich {
+background-color:#4747d1;
+color:black;
+height:auto;
+width:auto;
+}
